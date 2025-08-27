@@ -1,4 +1,4 @@
 // const BackendURL = "https://gymer-backend.onrender.com";
-const BackendURL = "http://localhost:3001"
+const BackendURL = "https://final-year-project-4wmt.onrender.com"
 
 export default BackendURL;
